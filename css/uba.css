@@ -1,0 +1,26 @@
+#fallback {
+  display: none; }
+
+.audioButton {
+  background: url("../img/btn.png") no-repeat 0 0;
+  display: block;
+  cursor: pointer;
+  margin: 8px 0;
+  padding: 8px 10px 5px 45px; }
+
+.audioButton:hover {
+  background-position: 0 -40px; }
+
+.audioButton.playing {
+  background-position: 0 -80px; }
+
+.audioButton.playing:hover {
+  background-position: 0 -120px; }
+
+.audioButton.loading,
+.audioButton.loading:hover {
+  background: url("../img/loading.gif") no-repeat 0 0;
+  text-indent: 0!important; }
+
+#player {
+  display: none; }
