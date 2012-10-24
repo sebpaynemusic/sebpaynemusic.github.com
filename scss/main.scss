@@ -7,8 +7,16 @@
  */
 
 /* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
+	Imports
+	========================================================================== */
+
+	@import "normalize";
+	@import "proxima-nova";
+	@import "uba";
+
+/* ==========================================================================
+	Base styles: opinionated defaults
+	========================================================================== */
 
 html,
 button,
@@ -79,8 +87,8 @@ textarea {
 }
 
 /* ==========================================================================
-   Chrome Frame prompt
-   ========================================================================== */
+	Chrome Frame prompt
+	========================================================================== */
 
 .chromeframe {
 	margin: 10px auto;
@@ -95,8 +103,8 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+	Author's custom styles
+	========================================================================== */
 
 body {
 	background-color: black;
@@ -106,12 +114,12 @@ body {
 }
 /* Custom selection colour */
 ::-moz-selection {
-       background-color: cyan;
-       color: black;
+		 background-color: cyan;
+		 color: black;
 }
 ::selection {
-       background-color: cyan;
-       color: black;
+		 background-color: cyan;
+		 color: black;
 }
 h1,h2,h3,h4,h5,h6 {
 	text-transform: uppercase;
@@ -119,7 +127,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'proxima_nova_rgbold', 'Helvetica Neue', Helvetica, Arial;
 }
 h1 {
-    font: 2.25em 'proxima_nova_ltbold', 'Helvetica Neue', Helvetica, Arial;
+	 font: 2.25em 'proxima_nova_ltbold', 'Helvetica Neue', Helvetica, Arial;
 	margin: 1em 0;
 	padding: 0.5em 0;
 	line-height: 1.65em;
@@ -225,8 +233,8 @@ a:hover {
 .arrow { font-size: 75% }
 
 /* ==========================================================================
-   Helper classes
-   ========================================================================== */
+	Helper classes
+	========================================================================== */
 
 /*
  * Image replacement
@@ -326,24 +334,24 @@ a:hover {
 }
 
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   Theses examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
+	EXAMPLE Media Queries for Responsive Design.
+	Theses examples override the primary ('mobile first') styles.
+	Modify as content requires.
+	========================================================================== */
 
 @media only screen and (min-width: 35em) {
 	/* Style adjustments for viewports that meet the condition */
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
-	   only screen and (min-resolution: 144dpi) {
+		only screen and (min-resolution: 144dpi) {
 	/* Style adjustments for high resolution devices */
 }
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid required HTTP connection: h5bp.com/r
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid required HTTP connection: h5bp.com/r
+	========================================================================== */
 
 @media print {
 	* {
