@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-origin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/main.scss",
+			"settings":
+			{
+				"buffer_size": 7851,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/index.html",
+		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/uba.css",
+		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/main.css",
+		"/Users/henryhadlow/Downloads/Seb Payne/h5bp-html5-boilerplate-2279296/css/proxima-nova.css",
+		"/Users/henryhadlow/Downloads/Seb Payne/h5bp-html5-boilerplate-2279296/css/nexa.css",
+		"/Users/henryhadlow/Downloads/webfontkit-20121023-123229/proximanova-bold-demo.html",
+		"/Users/henryhadlow/Downloads/webfontkit-20121023-123229/stylesheet.css",
+		"/Users/henryhadlow/Downloads/Seb Payne/h5bp-html5-boilerplate-2279296/favicon.ico",
+		"/Users/henryhadlow/Downloads/Seb Payne/h5bp-html5-boilerplate-2279296/index.html",
+		"/Users/henryhadlow/Downloads/Seb Payne/h5bp-html5-boilerplate-2279296/humans.txt",
+		"/Users/henryhadlow/govuk/prototyping/browse/styles.scss",
+		"/Users/henryhadlow/govuk/prototyping/browse/benefits.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/index.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/disabilities.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/working.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/tax.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/housing.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/employing-people.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/education.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/driving.html",
+		"/Users/henryhadlow/govuk/prototyping/nav-and-browse-reprise/style.css",
+		"/Users/henryhadlow/govuk/prototyping/nav-and-browse-reprise/category.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/justice.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/citizenship.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/business.html",
+		"/Users/henryhadlow/govuk/prototyping/browse/births-deaths-marriages.html",
+		"/Users/henryhadlow/govuk/prototyping/_layouts/default.html",
+		"/Users/henryhadlow/govuk/prototyping/_includes/_head.html",
+		"/Users/henryhadlow/govuk/prototyping/_layouts/browse.html",
+		"/Users/henryhadlow/govuk/prototyping/_layouts/default-wrapper.html",
+		"/Users/henryhadlow/govuk/prototyping/_includes/_header.html",
+		"/Users/henryhadlow/govuk/puppet/modules/users/manifests/groups/govuk.pp",
+		"/Users/henryhadlow/.ssh/github_rsa.pub",
+		"/Users/henryhadlow/.bash_profile",
+		"/Users/henryhadlow/govuk/deployment/puppet/extdata/common.csv",
+		"/Users/henryhadlow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/henryhadlow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/henryhadlow/govuk/deployment/puppet/extdata/development.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"   ",
+			"    ",
+			".content-fixed {\n  top: 0;\n  position: fixed;\n}\n.shim {\n  display: block;\n}\n\n#global-header h1 {\n  margin-left: 32px;\n}\n\nbody.mainstream {\n  padding-top: 0;\n}\n\n.js-enabled #global-header {\n  position: static;\n}\n\nbody.mainstream nav.header-context {\n  background-color: #fff;\n  margin: 0;\n  width: 100%;\n  max-width: none !important;\n  z-index: 9999;\n}\n\nbody.mainstream nav.header-context.content-fixed {\n  border-bottom: solid 3px #F2F2F2;\n}\n\nbody.mainstream nav.header-context ol {\n  background-color: transparent;\n  display: block;\n  margin: 0 auto;\n  width: 896px;\n  padding: 0.5em 32px;\n}\n\nbody.mainstream nav.header-context ol li {\n  font-size: 19px;\n}\n\nbody.mainstream nav.header-context ol li:first-child {\n  margin-left: 0;\n}\n\nheader.page-header hgroup {\n  margin-right: 0;\n  padding: 0;\n  padding: 1em 0 0 0;\n}\n\nsection#content {\n  margin-top: 1em;\n}\n\n.sub-category-page header.page-header hgroup {\n  \n}\n\nheader.page-header hgroup h1 {\n  line-height: 1;\n  font-size: 48px;\n  margin: 0 32px;\n  padding: 0;\n}\n\nheader.page-header hgroup h2 {\n  color: inherit;\n  font-size: 32px;\n  margin: 8px 32px 0 32px;\n}\n\n.category-page .search-container {\n  background-color: #fff;\n  padding: 0 2em 1em 2em;\n}\n\n.category-page.sub-category-page .search-container {\n  \n}\n\n.category-page .search-container h3 {\n  font-size: 1.1875em;\n  margin-bottom: 0.5em;\n}\n\n.category-page .search-container .summary {\n  font-size: 1.5em;\n  margin: 0 -1.35em 0.5em -1.35em;\n  padding: 1em 1.35em;\n}\n\n.category-page .search-container .summary p {\n  margin: 0;\n  width: 66%;\n}\n\n.category-page .search-container ul.sub-categories {\n  padding-left: 0;\n}\n\n.category-page .search-container ul.sub-categories li {\n  float: left;\n  min-height: 11em;\n  list-style: none;\n  margin-right: 4.25%;\n  margin-bottom: 1em;\n  width: 30.5%;\n}\n\n.category-page .search-container ul.sub-categories li:nth-child(3n) {\n  margin-right: 0;\n}\n\n.category-page .search-container ul.results-list {\n  padding-top: 1.5em;\n}\n\n.category-page .search-container h3 + ul.results-list {\n  padding: 0;\n}\n\n.category-page .search-container ul.results-list li {\n\n}\n\n.category-page .search-container .detailed-guidance {\n  border: solid 4px #2b8cc4;\n  padding: 1em 2em;\n}\n\n.category-page .search-container .detailed-guidance ul {\n  padding-left: 0;\n}\n\n.category-page .search-container .detailed-guidance ul li {\n  list-style: none;\n  margin-bottom: 1em;\n}\n\n// ----------------\n   Footer nav\n   ----------------\n\n\n#footer .categories h1 {\nfont-size: 1em;\nmargin: 1em 0;\n}\n#footer .categories ul li {\nlist-style: none;\nfloat: left;\nmargin-right: 4.25%;\nwidth: 30.5%;\n}\n#footer .categories ul  {\nmargin-left: 0em;\npadding: 0;\n}\n#footer .colophon-and-help {\nwidth: auto; //overwrite\npadding: 0 2em;\n}\n#footer .copyright {\ntext-align: left; //overwrite\npadding: 0 2em;\nfont-size: 0.9em;\n}\n#footer .copyright p{\n  margin-top: 0;\n}\n#footer .colophon-and-help .colophon {\nclear: left;\npadding-top: 0.5em;\n}\n#footer{\nbackground-color: #e2e2e2;\n}\n\n*/",
+			"https://www.gov.uk/browse/benefits/",
+			"  ",
+			"https://www.gov.uk/browse/",
+			"  ",
+			"Format",
+			"  ",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			"",
+			"	",
+			"",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3331,
+								3331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1518.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scss/main.scss",
+					"settings":
+					{
+						"buffer_size": 7851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4363,
+								4363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3730.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}
