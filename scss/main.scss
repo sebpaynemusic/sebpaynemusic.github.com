@@ -15,6 +15,13 @@
 	@import "uba";
 
 /* ==========================================================================
+	Variables
+	========================================================================== */
+
+	$seb: invert(#B8860B); /* darkgoldenrod */
+
+
+/* ==========================================================================
 	Base styles: opinionated defaults
 	========================================================================== */
 
@@ -93,13 +100,13 @@ textarea {
 .chromeframe {
 	margin: 10px auto;
 	width: 980px;
-	background: goldenrod;
+	background: lighten($seb, 10%);
 	color: black;
 	padding: 0.5em;
-}
-.chromeframe a {
-	color: black;
-	text-decoration: underline;
+	a {
+		color: black;
+		text-decoration: underline;
+	}
 }
 
 /* ==========================================================================
@@ -109,16 +116,16 @@ textarea {
 body {
 	background-color: black;
 	border: 15px solid white;
-	color: darkgoldenrod;
+	color: $seb;
 	font-family: 'proxima_nova_rgregular', 'Helvetica Neue', Helvetica, Arial;
 }
 /* Custom selection colour */
 ::-moz-selection {
-		 background-color: cyan;
+		 background-color: invert($seb);
 		 color: black;
 }
 ::selection {
-		 background-color: cyan;
+		 background-color: invert($seb);
 		 color: black;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -133,7 +140,7 @@ h1 {
 	line-height: 1.65em;
 }
 h2 {
-	border-top: 1px solid darkgoldenrod;
+	border-top: 1px solid $seb;
 	padding-top: 0.65em;
 	margin-top: 2.75em;
 }
@@ -150,13 +157,14 @@ header {
 section {
 	width: 265px;
 	height: 300px;
+	ul {
+		padding: 0;
+		li {
+			list-style-type: none;
+		}
+	}
 }
-section ul {
-	padding: 0;
-}
-section li {
-	list-style-type: none;
-}
+
 #leftcol, #centercol, #rightcol {
 	float: left;
 }
@@ -208,27 +216,27 @@ section li {
 footer {
 	margin-top: 120px;
 	margin-bottom: 20px;
-	border-top: 1px solid darkgoldenrod;
-}
-footer ul {
-	display: inline-block;
-	padding: 0;
-}
-footer li {
-	display: inline;
-	padding-right: 20px;
-	list-style-type: circle;
-}
-footer li:first-child {
-	list-style-type: none;
+	border-top: 1px solid $seb;
+	ul {
+		display: inline-block;
+		padding: 0;
+		li {
+			display: inline;
+			padding-right: 20px;
+			list-style-type: circle;
+			&:first-child {
+				list-style-type: none;
+			}
+		}
+	}
 }
 a {
-	color: darkgoldenrod;
+	color: $seb;
 	text-decoration: none;
-}
-a:hover {
-	color: goldenrod;
-	border-bottom: 1px solid goldenrod;
+	&:hover {
+		color: $seb;
+		border-bottom: 1px solid $seb;
+	}
 }
 .arrow { font-size: 75% }
 
