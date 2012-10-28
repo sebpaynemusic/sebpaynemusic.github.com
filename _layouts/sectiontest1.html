@@ -42,18 +42,13 @@
 			
 			<div id="leftcol">
 				<section id="About">
-					<h2>About</h2>
-					<p>Seb is &frac34; English and &frac14; Finnish.<br>As an ex-St Paul&apos;s Cathedral chorister, he has effectively been singing professionally since he was seven. Today, he&apos;s studying Contemporary Music at Berklee College of Music in Boston. Motown veteran Bobby Taylor describes him as &lsquo;probably the third best singer I taught&rsquo; &ndash; the second best was Michael Jackson; and the best was Marvin Gaye.</p>
+					<h2>{{ page.about-section ['Title'] | textilize }}</h2>
+					<p>{{ page.about-section ['Content'] | textilize }}</p>
 				</section>
 			
 			<section id="Originals">
-				<h2>Originals</h2>
-				<ul class="controls">
-					<li><a class="audioButton" href="media/seb_payne-wishes.mp3">Wishes</a></li>
-					<li><a class="audioButton" href="media/seb_payne-just_for_you.mp3">Just for you</a></li>
-					<li><a class="audioButton" href="media/seb_payne-bring_ya_down.mp3">Bring ya Down</a></li>
-					<li><a class="audioButton" href="media/seb_payne-singing_to_myself.mp3">Singing to Myself</a></li>
-				</ul>
+				<h2>{{ page.originals-section ['Title'] | textilize }}</h2>
+				{{ page.about-section ['Content'] | textilize }}
 			</section>
 			</div>
 			
@@ -63,25 +58,14 @@
 				</section>
 			</div>
 			<div id="rightcol">
-				<section id="Live">
-					<h2>Live</h2>
-					<ul>
-						<li><span class="day">24</span> <span class="month">September</span><br>
-						<p class="venue">Ronnie Scott’s, London</p></li>
-						<li><span class="day">31</span> <span class="month">October</span><br>
-						<p class="venue">Spooky Garden, Hong Kong</p></li>
-						<li><span class="day">24</span> <span class="month">December</span><br>
-						<p class="venue">The Grotto, Lapland</p></li>
-					</ul>
+				<section id="Gigs">
+					<h2>{{ page.gigs-section ['Title'] | textilize }}</h2>
+					{{ page.about-section ['Content'] | textilize }}
 				</section>
 				
 				<section id="Covers">
-					<h2>Covers</h2>
-					<ul class="controls">
-						<li><a class="audioButton" href="media/seb_payne-wishes.mp3">Wishes</a></li>
-						<li><a class="audioButton" href="media/seb_payne-just_for_you.mp3">Just for you</a></li>
-						<li><a class="audioButton" href="media/seb_payne-bring_ya_down.mp3">Bring ya Down</a></li>
-						<li><a class="audioButton" href="media/seb_payne-singing_to_myself.mp3">Singing to Myself</a></li>
+					<h2>{{ page.covers-section ['Title'] | textilize }}</h2>
+					{{ page.covers-section ['Content'] | textilize }}
 					</ul>
 				</section>
 			</div>
