@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Henry Hadlow -- Design / Development -- @henryhadlow
+    Jeremy Payne -- MD -- @rexthesaurus
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    HTML5 Boilerplate
+    ubaPlayer, YouTube
+    jekyll, GitHub Pages,
+    Jekyll, Markdown, SCSS
