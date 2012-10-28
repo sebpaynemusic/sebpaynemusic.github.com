@@ -75,15 +75,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5330,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "scss/main.scss",
-			"settings":
-			{
-				"buffer_size": 7851,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -120,6 +112,7 @@
 	},
 	"file_history":
 	[
+		"/Users/henryhadlow/Projects/sebpaynemusic.github.com/scss/main.scss",
 		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/index.html",
 		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/uba.css",
 		"/Users/henryhadlow/Downloads/2012-07 Seb Payne/Code/css/main.css",
@@ -208,7 +201,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -216,51 +209,27 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5330,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3331,
-								3331
+								0,
+								0
 							]
 						],
 						"settings":
 						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1518.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "scss/main.scss",
-					"settings":
-					{
-						"buffer_size": 7851,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4363,
-								4363
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3730.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -299,6 +268,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"replace":
 	{
 		"height": 64.0
