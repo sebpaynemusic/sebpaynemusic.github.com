@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Seb Brain Music
+title: Seb Payne Music
 ---
